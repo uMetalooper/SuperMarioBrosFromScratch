@@ -17,4 +17,7 @@ Sprite ref:
 
 # TODO
 - [ ] Setup environment
-- [ ] 
+- [ ] Prepare sprites and sounds
+- [ ] Sample platform
+- [ ] Character controller
+- [ ] Sprite renderer
